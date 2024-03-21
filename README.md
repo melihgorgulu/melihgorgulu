@@ -3,7 +3,7 @@
 <h3 align="center">Passionate about Machine Learning/ Computer Vision</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melihgorgulu&label=Profile%20views&color=0e75b6&style=flat" alt="melihgorgulu" /> </p>
 
-<img src="https://github.com/melihgorgulu/melihgorgulu/blob/master/github.gif" width="600" height="600" />
+<img src="https://github.com/melihgorgulu/melihgorgulu/blob/master/github.gif" width="400" height="400" />
 
 - 🔭 I’m currently having Informatics Master's at **Technical University of Munich**
 - 👨‍💻 I am currently conducting my thesis on autonomous driving, supervised by Prof. Cremmers within the Computer Vision Group. [https://cvg.cit.tum.de/](https://cvg.cit.tum.de/)
