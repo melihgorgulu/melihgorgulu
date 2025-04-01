@@ -5,9 +5,7 @@
 
 <img src="https://github.com/melihgorgulu/melihgorgulu/blob/master/github.gif" width="400" height="400" />
 
-- 🔭 I’m currently having Informatics Master's at **Technical University of Munich**
-- 👨‍💻 I am currently conducting my thesis on autonomous driving, supervised by Prof. Cremmers within the Computer Vision Group. [https://cvg.cit.tum.de/](https://cvg.cit.tum.de/)
-
+- 🔭 I pursued a Master's degree in Informatics at the Technical University of Munich, where I conducted a thesis on 3D computer vision for autonomous drivingunder the supervision of Professor Cremmers in the Computer Vision Group. [https://cvg.cit.tum.de/](https://cvg.cit.tum.de/)
 
 <p align="left">
 </p>
